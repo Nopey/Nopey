@@ -1,6 +1,6 @@
 ### Welcome!
 
-Feel free to reach out [via email](mailto://golgothasTerror101@gmail.com), say hello and whatnot.
+Feel free to reach out via email (golgothasTerror101@gmail.com), say hello and whatnot.
 
 Check out [泡 (AWA)](https://globalgamejam.org/games/2025/pao-awa-3), a game we made for Global Game Jam 2025!
 
@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
