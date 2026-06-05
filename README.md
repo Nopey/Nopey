@@ -1,10 +1,10 @@
 ### Welcome!
 
-Feel free to reach out via email (golgothasTerror101@gmail.com), say hello and whatnot.
+Feel free to reach out! via email (golgothasTerror101@gmail.com), say hello and whatnot.
 
 Check out our games:
 - [泡 (AWA)](https://globalgamejam.org/games/2025/pao-awa-3): Made for the Global Game Jam 2025, uses Fennel and LÖVE2D
-- [Lessons for a Hero](https://maximthegamedev.itch.io/lessons-for-a-hero): Made for the Alberta Slow Jam 2026, uses Godot
+- [Lessons for a Hero](https://maximthegamedev.itch.io/lessons-for-a-hero): Made for the Alberta Slow Jam 2026, uses Godot (new!)
 
 You'll find my open source, Source-engine related, work at https://github.com/compucolor.
 
